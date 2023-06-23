@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `firebase deploy`
+Deploys the app on Firebase
+Project Console: https://console.firebase.google.com/project/workspace-assistant-2e9fe/overview
+Hosting URL: https://workspace-assistant-2e9fe.web.app
+
 ### `npm start`
 
 Runs the app in the development mode.\
